@@ -1,0 +1,15 @@
+MenuGraphisc True
+MenuCell True
+MenuGroup True
+MenuNrCells True
+MenuNrCellsRec True
+MenuSettingsRec True
+MenuAtoms True
+AtomsToCalculate 3
+ballSize 1
+ballSizeRec 2,3
+Log_scale True
+only_visible False
+Col_real 0 128 192
+Col_rec 0 128 192
+
