@@ -1,5 +1,5 @@
 # Absences
-This program I wrote for fun. It is a presentation of real crystalographics cell and its reciprocal space representation. 
+This program I wrote for fun. It is a presentation of real crystalographics cell and its reciprocal space representation. Unfortunatly, the mecanism for reading symmetry transformations is not fully corect. The proper one can be found in Cif program in one of my repositories.
 
 The program uses Space groups symetries to generate unit cell (with three bals) and reciprocal space. 
 To star the program you need VS2019 redistributables
